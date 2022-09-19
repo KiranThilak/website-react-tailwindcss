@@ -5,7 +5,7 @@ function App() {
     <div>
 
     <h1 className="text-5xl font-bold underline">
-      Hello world.!
+      Hello world..!
     </h1>
 
       
